@@ -1,5 +1,4 @@
 import { Injectable, signal } from '@angular/core';
-
 import { Permission } from './auth.model';
 
 @Injectable({
